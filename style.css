@@ -160,17 +160,3 @@ footer {
             padding-bottom: 2rem;
       }
 }
-table#three {
-      text-align:center; 
-      margin-left:auto; 
-      margin-right:auto;
-      border-collapse: collapse;
-      width:100%;
-}
-table, th, td {
-      border:1px solid;
-      color: #ffb6c1;
-}
-th, td {
-      border-color: #ffb6c1;
-}
