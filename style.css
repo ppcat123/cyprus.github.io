@@ -118,7 +118,7 @@ footer {
       grid-column: 2;
       position: relative;
       z-index: 1000;
-      opacity: .3;
+      opacity: .4;
 }
 
 #mask {
