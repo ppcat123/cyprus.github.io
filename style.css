@@ -162,6 +162,7 @@ footer {
 }
 table, th, td {
       border:1px solid black;
+      color: #ffb6c1;
 }
 #info .three {
       margin-left: auto;
