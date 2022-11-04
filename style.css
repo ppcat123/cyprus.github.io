@@ -163,6 +163,7 @@ footer {
 table {
       width: 100%;
       border-collapse: collapse;
+      text-align:center;
 }
 table, th, td {
       border:1px solid black;
@@ -170,8 +171,4 @@ table, th, td {
 }
 th, td {
       border-color: #ffb6c1;
-}
-#info .three {
-      margin-left: auto;
-      margin-right: auto;
 }
