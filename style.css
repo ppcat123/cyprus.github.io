@@ -160,9 +160,16 @@ footer {
             padding-bottom: 2rem;
       }
 }
+table {
+      width: 100%;
+      border-collapse: collapse;
+}
 table, th, td {
       border:1px solid black;
       color: #ffb6c1;
+}
+th, td {
+      border-color: #ffb6c1;
 }
 #info .three {
       margin-left: auto;
